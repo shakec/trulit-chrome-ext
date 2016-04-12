@@ -9,6 +9,15 @@ html {
 	text-align: center;
 }
 
+/* Current Time */
+#date {
+    float: right;
+    margin-right: 15%;
+    margin-top: 5%;
+    font-size: 1em;
+}
+
+
 a {
   color: white;
 }
@@ -37,3 +46,4 @@ body {
 main {
   flex: 1 0 auto;
 }
+
